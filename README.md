@@ -2,14 +2,11 @@
 
 ## Download:
 - [SF Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)
-- [Inter](https://fonts.google.com/specimen/Inter)
 - [New York](https://github.com/yell0wsuit/New-York-fonts)
 - [SF Mono](https://github.com/supercomputra/SF-Mono-Font)
 - [SF Arabic](https://github.com/dpejoh/apple-typography-for-linux/releases)
 - [Apple Color Emoji](https://github.com/samuelngs/apple-emoji-linux/releases)
-
-## Why inter font?
-The Inter font is the best replacement for the SF Pro font. I use it personally because it offers better readability while maintaining the same look and feel as the SF Pro font.
+- [fonts.conf](https://github.com/dpejoh/apple-typography-for-linux/releases)
 
 ## before applying:
 Make sure to disable `Noto Color Emoji` font and other emoji fonts using any font manager or delete them from `/usr/share/fonts/` (I personally use **font-manager**).
