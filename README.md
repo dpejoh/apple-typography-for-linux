@@ -1,4 +1,5 @@
 # apple-typography-for-linux
+A comprehensive collection of Apple fonts for seamless application across all Linux distributions, enhancing your typography experience.
 
 ## Download:
 - [SF Pro](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)
@@ -6,7 +7,7 @@
 - [SF Mono](https://github.com/supercomputra/SF-Mono-Font)
 - [SF Arabic](https://github.com/dpejoh/apple-typography-for-linux/releases)
 - [Apple Color Emoji](https://github.com/samuelngs/apple-emoji-linux/releases)
-- [fonts.conf](https://github.com/dpejoh/apple-typography-for-linux/releases)
+- [fonts.conf](https://github.com/dpejoh/apple-typography-for-linux/releases/download/v1.0/fonts.conf)
 
 ## before applying:
 Make sure to disable `Noto Color Emoji` font and other emoji fonts using any font manager or delete them from `/usr/share/fonts/` (I personally use **font-manager**).
